@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bhaveshdodia
+- 👀 I’m interested in Python, Javascript, Web Development
+- 🌱 I’m currently learning HTML, CSS & Javascropt
+- 📫 How to reach me LinkedIn - bhaveshdodia
