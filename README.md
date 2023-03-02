@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bhaveshdodia
-- 👀 I’m interested in Python Backend Developement
-- 🌱 I’m currently learning HTML, CSS & Javascropt
+- 👀 I’m interested in Python Backend Development & automation
+- 🌱 I’m currently learning PySpark
 - 📫 How to reach me LinkedIn - bhaveshdodia
